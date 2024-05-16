@@ -1,15 +1,6 @@
-.main {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 67vh;
-  width: 100%;
-  padding: 12px 13px;
-  background-color: khaki;
-}
-
-.heading {
-  font-size: 1.5em;
+.userName {
+  font-size: 19px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgb(106, 161, 215);
+  color: rgb(73, 234, 110);
+  font-weight: 600;
 }
